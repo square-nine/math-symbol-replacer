@@ -9,6 +9,7 @@ To "activate" it, type the open square bracket `[` to initialise it.
 Then, type the name of the symbol to use. It's recommended to check the list in "INDEX" for what shorthand gives you what symbol. These were made under my preferences, but feel free to change the abbreviation
 Then, type the closing square bracket `]` to finalise it. The program then overwrites what you typed for the actual symbol.
 
+To stop the running of the program, just press Escape (`esc`). Regrettably, you'll have to re-run the program to then use it after exiting (WIP to fix)
 
 ## How do I add my own?
 It's very simple, you don't even need Python to add one! Open the python file and then navigate to the "INDEX". Add a new line within the curly brackets of the form:
